@@ -1,0 +1,13 @@
+
+Name of file is not significant. Even the extension does not matter much. What matters is the permissions given to the file more importantly, it should have executable persmissions.
+
+Permissions can be viewed by ls -l <filename>
+
+echo is a shell builtin. To see if a given command is a shell builtin "type <name of builtin>". so for eg, type echo
+
+For if statements: -eq : equal
+		   -ne : not equal
+	           -lt : less than
+		   -gt : greater than
+		   -ge : greater than or equal to
+		
